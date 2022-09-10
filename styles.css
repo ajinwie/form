@@ -1,0 +1,48 @@
+body{
+    background-color:blueviolet ;
+    
+}
+.sand {
+    margin: 50px;
+    
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+#survey-form{
+    padding: 25px;
+    border-radius: 2rem;
+}
+#title{
+    justify-content: center;
+}
+
+.name{
+    background-color:lightgreen;
+    padding-left: 20px;
+}
+    .tih,.syn,.des,.cy{
+        padding-bottom: 10px;
+    }
+    
+    .fit{
+        margin-bottom: 15px;
+    }
+    .roe{
+        margin-bottom: 20px;
+    }
+    .sea,.br{ margin-bottom: 20px;}
+    
+    #name-label,#email-label,#number-label,#dropdown{
+        width: 300px;
+    }
+    #comment{
+height: 40px;
+width: 300px;
+    }
+    #submit{
+        width: 300px;
+        background-color: greenyellow;
+    }
